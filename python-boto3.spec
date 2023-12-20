@@ -1,6 +1,6 @@
 Name:		python-boto3
-Version:	1.26.42
-Release:	2
+Version:	1.34.5
+Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/b/boto3/boto3-%{version}.tar.gz
 Summary:	The AWS SDK for Python
 URL:		https://pypi.org/project/boto3/
