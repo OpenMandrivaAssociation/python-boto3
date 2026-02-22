@@ -1,7 +1,7 @@
 %define module boto3
 
 Name:		python-boto3
-Version:	1.42.47
+Version:	1.42.54
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/b/%{module}/%{module}-%{version}.tar.gz#/%{name}-%{version}.tar.gz
 Summary:	The AWS SDK for Python
