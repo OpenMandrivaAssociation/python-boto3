@@ -3,7 +3,7 @@
 Name:		python-boto3
 Summary:	The AWS SDK for Python
 Version:	1.43.66
-Release:	1
+Release:	2
 License:	Apache-2.0
 Group:		Development/Python
 URL:		https://pypi.org/project/boto3/
